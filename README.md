@@ -1,6 +1,7 @@
 ### Bhagath Samalla
 
 Backend developer. Python, Django, AWS. Building things that run in production, not just demos
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bugs0007)](https://github.com/stats-organization/github-stats-extended)
 
 **Currently building:** [Case Intel](https://caseintel.in), a live legal case management
 platform used by real advocates for case tracking, cause lists, and invoicing.
