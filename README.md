@@ -1,16 +1,18 @@
-## Hi there 👋
+### Bhagath Samalla
 
-<!--
-**Bugs0007/Bugs0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer. Python, Django, AWS. Building things that run in production, not just demos.
 
-Here are some ideas to get you started:
+**Currently building:** [Case Intel](https://caseintel.in), a live legal case management
+platform used by real advocates for case tracking, cause lists, and invoicing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+- Backend: Python, Django, DRF, PostgreSQL
+- Infra: AWS (EC2, Lambda, SQS, S3), Nginx, GitHub Actions
+- AI/LLM: LangGraph, RAG, pgvector
+
+**Selected work**
+- [Case Intel](https://github.com/Bugs0007/CASE_INTEL), multi-tenant legal case platform, live in production
+- [Criminal Forensics Face Match](https://github.com/Bugs0007/Major-Project-Criminal-Forensics), face similarity search with dlib and pgvector
+- [Attendance System](https://github.com/Bugs0007/attendance-system-app), real-time face recognition, 92% accuracy
+
+Find me: [Portfolio](https://portfolio-mu-silk-74.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bhagath-samalla-301282281)
