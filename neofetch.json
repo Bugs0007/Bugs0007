@@ -1,4 +1,5 @@
 {
+  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
