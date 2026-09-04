@@ -1,6 +1,7 @@
 ### Bhagath Samalla
 
-Backend developer. Python, Django, AWS. Building things that run in production, not just demos.
+Backend developer. Python, Django, AWS. Building things that run in production, not just demos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bugs0007&show_icons=true&hide_border=true&theme=tokyonight)
 
 **Currently building:** [Case Intel](https://caseintel.in), a live legal case management
 platform used by real advocates for case tracking, cause lists, and invoicing.
